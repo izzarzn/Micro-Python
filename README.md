@@ -87,7 +87,7 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 
 ---------------------
 
-|  **Program-1** |
+|  **Program-1** | 
 | :---- |
 |Program to blink LED  |
 |[Source Code](Programs/Blink.py)|
