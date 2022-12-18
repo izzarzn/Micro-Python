@@ -80,7 +80,7 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 
 | **No** | **Experiment Name** | 
 | :---: | :---       |
-|1| |Program to blink LED |
+|1|Program to blink LED |
 |2|Program to Get input from two switches and switch on corresponding LEDs.|
 |3|Program to Flash an LED at a given on time and off time cycle, where the two times are taken from a file.|
 |4|Program to Switch on a relay at a given time using sleep function, where the relay’s contact terminals are connected to a load.|
@@ -112,3 +112,26 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 | :---- |
 |Program to Switch on a relay at a given time using sleep function, where the relay’s contact terminals are connected to a load.|
 |[Source Code](Programs/Relay.py)|
+
+---------------------
+
+|  **Program-5** |
+| :---- |
+|Program for Buzzer  |
+|[Source Code](Programs/buzzer.py)|
+
+-----------------------
+
+|  **Program-6** |
+| :---- |
+|Program for Theristor  |
+|[Source Code](Programs/Thermister.py)|
+
+------------------------
+
+|  **Program-7** |
+| :---- |
+|Program for Light Dependent Resistor(LDR) |
+|[Source Code](Programs/ldr.py)|
+
+
