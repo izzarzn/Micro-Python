@@ -1,5 +1,3 @@
-# Complete project details at https://RandomNerdTutorials.com
-
 def read_sensor():
   global temp, hum
   temp = hum = 0
