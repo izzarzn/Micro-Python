@@ -1,5 +1,24 @@
 ## SST IoT Development Board Experiments Using MicroPython
 
+| **Python Installation Guide** |
+| :---------- |
+|[Click Here](Python-Installation.md)|
+
+-----------------
+
+| **Installation of upycraft IDE** |
+| :------------ |
+[Click Here](uPycraft-Installation.md)
+
+-------------------
+
+
+| **Flash/Upload MicroPython Firmware to ESP32** |
+| :------------ |
+[Click Here](Flash.md)
+
+-------------------------
+
 ### About the Board
 The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and integrated with different Sensors and Accuators, using which strong Embedded and IoT fundamentals are developed by deploying and implementing various projects involving cloud, ML and various other industry stacks.
 
@@ -64,25 +83,6 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 
 -----------------
 
-| **Python Installation Guide** |
-| :---------- |
-|[Click Here](Python-Installation.md)|
-
------------------
-
-| **Installation of upycraft IDE** |
-| :------------ |
-[Click Here](uPycraft-Installation.md)
-
--------------------
-
-
-| **Flash/Upload MicroPython Firmware to ESP32** |
-| :------------ |
-[Click Here](Flash.md)
-
--------------------------
-
 ### List of Experiments
 
 | **No** | **Experiment Name** | 
@@ -91,6 +91,9 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 |2|Program to Get input from two switches and switch on corresponding LEDs.|
 |3|Program to Flash an LED at a given on time and off time cycle, where the two times are taken from a file.|
 |4|Program to Switch on a relay at a given time using sleep function, where the relay’s contact terminals are connected to a load.|
+|5|Program for Buzzer |
+|6|Program for Thermistor|
+|7|Program for Light Dependent Resistor(LDR)|
 
 ---------------------
 
@@ -124,14 +127,14 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 
 |  **Program-5** |
 | :---- |
-|Program for Buzzer  |
+|Program for Buzzer |
 |[Source Code](Programs/buzzer.py)|
 
 -----------------------
 
 |  **Program-6** |
 | :---- |
-|Program for Theristor  |
+|Program for Thermistor  |
 |[Source Code](Programs/Thermister.py)|
 
 ------------------------
