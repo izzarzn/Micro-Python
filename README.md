@@ -192,7 +192,7 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 |Program for Smoke Sensor|
 |[Source Code](Programs/smoke.py)|
 
+-------------------------------
 
-
-
+<h3 align = "center">Don't forget to ⭐ this repo<h3>
 
