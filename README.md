@@ -72,9 +72,16 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 
 | **Installation of upycraft IDE** |
 | :------------ |
-[Click Here]()
+[Click Here](uPycraft-Installation.md)
 
 -------------------
+
+
+| **Installation of upycraft IDE** |
+| :------------ |
+[Click Here](Flash.md)
+
+-------------------------
 
 ### List of Experiments
 
