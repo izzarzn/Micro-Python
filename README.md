@@ -94,6 +94,7 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 |5|Program for Buzzer |
 |6|Program for Thermistor|
 |7|Program for Light Dependent Resistor(LDR)|
+|8|Program for DHT11 |
 
 ---------------------
 
@@ -143,5 +144,10 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 | :---- |
 |Program for Light Dependent Resistor(LDR) |
 |[Source Code](Programs/ldr.py)|
+
+|  **Program-8** |
+| :---- |
+|Program to monitor Temperature and Humidity |
+|[Source Code](Programs/dht11.py)|
 
 
