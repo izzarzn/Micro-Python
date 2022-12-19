@@ -1,5 +1,3 @@
-# 6.	Control a light source using web page.
-# 8.	Get the status of a bulb at a remote place through web.
 def web_page():
   if relay.value() == 1:
     relay_state = ''
