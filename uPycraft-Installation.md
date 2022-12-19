@@ -1,6 +1,6 @@
 ## Downloading uPyCraft IDE for Windows
 
-### Click here to download uPyCraft IDE for Windows After a few seconds you should see a similar file (uPyCraft_VX.exe) in your Downloads folder:
+### [Click here](Software/uPyCraft_V1.1.exe) to download uPyCraft IDE for Windows After a few seconds you should see a similar file (uPyCraft_VX.exe) in your Downloads folder:
 
  ![5-Open-uPyCraft-IDE](https://user-images.githubusercontent.com/65058286/208462538-0bc308c2-7de1-467b-a5f9-7e7a058197bc.jpg)
 
