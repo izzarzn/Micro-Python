@@ -96,6 +96,8 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 |7|Program for Light Dependent Resistor(LDR)|
 |8|Program to monitor Temperature and Humidity using DHT11|
 |9|Program to Handle Interruption|
+|10|Program to control LED using Client/Server Architecture |
+|11| Program to control Blulb using Relay and Client/Server Architecture|
 
 ---------------------
 
@@ -159,6 +161,20 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 | :---- |
 |Program to handle Interruption |
 |[Source Code](Programs/pir.py)|
+
+-----------------------
+
+|  **Program-10** |
+| :---- |
+|Program to control LED using Client/Server Architecture  |
+|[Source Code](Programs/main.py)|
+
+-------------------------
+
+|  **Program-11** |
+| :---- |
+|Program to control Blulb using Relay and Client/Server Architecture |
+|[Source Code](Programs/relayControl.py)|
 
 
 
