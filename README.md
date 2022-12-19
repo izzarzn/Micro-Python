@@ -98,6 +98,8 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 |9|Program to Handle Interruption|
 |10|Program to control LED using Client/Server Architecture |
 |11| Program to control Blulb using Relay and Client/Server Architecture|
+|12| Program for Potentiometer |
+|13| Program for Smoke Sensor |
 
 ---------------------
 
@@ -175,6 +177,22 @@ The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and
 | :---- |
 |Program to control Blulb using Relay and Client/Server Architecture |
 |[Source Code](Programs/relayControl.py)|
+
+------------------------
+
+|  **Program-12** |
+| :---- |
+|Program for Potentiometer|
+|[Source Code](Programs/pot.py)|
+
+-------------------------
+
+|  **Program-13** |
+| :---- |
+|Program for Smoke Sensor|
+|[Source Code](Programs/smoke.py)|
+
+
 
 
 
