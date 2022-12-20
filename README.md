@@ -1,4 +1,4 @@
-## SST IoT Development Board Experiments Using MicroPython
+# SST IoT Development Board Experiments Using MicroPython
 
 | **Python Installation Guide** |
 | :---------- |
