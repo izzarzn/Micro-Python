@@ -19,23 +19,6 @@
 
 -------------------------
 
-### About the Board
-The **SST IoT Development Board** is a ESP-32 Module mounted on a custom PCB and integrated with different Sensors and Accuators, using which strong Embedded and IoT fundamentals are developed by deploying and implementing various projects involving cloud, ML and various other industry stacks.
-
---------------
-
-### Specifications
-
-- The ESP32 is dual core, this means it has 2 processors.
-- It has Wi-Fi and bluetooth built-in.
-- It runs 32 bit programs.
-- The clock frequency can go up to 240MHz and it has a 512 kB RAM.
-- This particular board has 30 pins, 15 in each row.
-- It also has wide variety of peripherals available, like: capacitive touch, ADCs, DACs, UART, SPI, I2C and much more.
-- It comes with built-in hall effect sensor and built-in temperature sensor.
-
------------------
-
 ## SST IoT Development Board Pin Description
 
 | **Components** | **GPIO PIN DESCRIPTION** |
