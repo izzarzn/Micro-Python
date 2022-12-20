@@ -6,7 +6,7 @@
 
 -----------------
 
-| **Installation of upycraft IDE** |
+| **Installation of uPycraft IDE** |
 | :------------ |
 [Click Here](uPycraft-Installation.md)
 
