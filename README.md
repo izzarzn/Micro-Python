@@ -134,7 +134,7 @@
 
 |  **Program-8** |
 | :---- |
-|Implement an intruder system that sends an alert to the given email.|
+|Implement an intruder system that sends an alert to the given email|
 |[Source Code](Programs/pir.py)|
 
 -----------------------
