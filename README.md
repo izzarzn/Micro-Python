@@ -77,10 +77,8 @@
 |5|Program for Buzzer |
 |6|Program for Thermistor|
 |7|Program for Light Dependent Resistor(LDR)|
-|8|Program to monitor Temperature and Humidity using DHT11|
 |9|Program to Handle Interruption|
 |10|Program to control LED using Client/Server Architecture |
-|11| Program to control Blulb using Relay and Client/Server Architecture|
 |12| Program for Potentiometer |
 |13| Program for Smoke Sensor |
 
@@ -137,42 +135,22 @@
 
 |  **Program-8** |
 | :---- |
-|Program to monitor Temperature and Humidity using DHT11 |
-|[Source Code](Programs/dht11.py)|
-
---------------------------
-
-|  **Program-9** |
-| :---- |
 |Program to handle Interruption |
 |[Source Code](Programs/pir.py)|
 
 -----------------------
 
+|  **Program-9** |
+| :---- |
+|Control Relay Module with MicroPython Web Server|
+|[Boot Code](Programs/boot.py)|
+|[Main Code](Programs/main.py)|
+
+-------------------------
+
 |  **Program-10** |
 | :---- |
-|Program to control LED using Client/Server Architecture  |
-|[Source Code](Programs/main.py)|
-
--------------------------
-
-|  **Program-11** |
-| :---- |
-|Program to control Blulb using Relay and Client/Server Architecture |
-|[Source Code](Programs/relayControl.py)|
-
-------------------------
-
-|  **Program-12** |
-| :---- |
-|Program for Potentiometer|
-|[Source Code](Programs/pot.py)|
-
--------------------------
-
-|  **Program-13** |
-| :---- |
-|Program for Smoke Sensor|
+|Get an alarm from a remote area if smoke is detected.|
 |[Source Code](Programs/smoke.py)|
 
 -------------------------------
