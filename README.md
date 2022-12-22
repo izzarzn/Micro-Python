@@ -77,10 +77,9 @@
 |5|Program for Buzzer |
 |6|Program for Thermistor|
 |7|Program for Light Dependent Resistor(LDR)|
-|9|Program to Handle Interruption|
-|10|Program to control LED using Client/Server Architecture |
-|12| Program for Potentiometer |
-|13| Program for Smoke Sensor |
+|8|Implement an intruder system that sends an alert to the given email.|
+|9|Program to control LED using Client/Server Architecture |
+|10| Program for Smoke Sensor |
 
 ---------------------
 
@@ -135,7 +134,7 @@
 
 |  **Program-8** |
 | :---- |
-|Program to handle Interruption |
+|Implement an intruder system that sends an alert to the given email.|
 |[Source Code](Programs/pir.py)|
 
 -----------------------
