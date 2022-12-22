@@ -77,8 +77,8 @@
 |5|Program for Buzzer |
 |6|Program for Thermistor|
 |7|Program for Light Dependent Resistor(LDR)|
-|8|Implement an intruder system that sends an alert to the given email.|
-|9|Program to control LED using Client/Server Architecture |
+|8|Implement an intruder system that sends an alert to the given email|
+|9|Control Relay Module with MicroPython Web Server|
 |10| Program for Smoke Sensor |
 
 ---------------------
