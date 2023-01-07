@@ -9,4 +9,4 @@ while True:
   sleep(1.0) 
   if smoke_value > 50: 
     buzzer.value(1) 
-    else: buzzer.value(0)
+  else: buzzer.value(0)
