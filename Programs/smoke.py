@@ -1,7 +1,5 @@
-from machine 
-import Pin, ADC 
-from time 
-import sleep 
+from machine import Pin, ADC 
+from time import sleep 
 smoke = ADC(Pin(26)) # Smoke Sensor –GPIO26 
 smoke.atten(ADC.ATTN_11DB) # Full range: 3.3v 
 buzzer = Pin(14,Pin.OUT) 
