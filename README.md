@@ -6,6 +6,12 @@
 
 -----------------
 
+| **Microsoft Visual C++ 2010** |
+| :------------ |
+[Click Here](Visual)
+
+-------------------------
+
 | **Installation of uPycraft IDE** |
 | :------------ |
 [Click Here](uPycraft-Installation.md)
