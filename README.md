@@ -76,76 +76,126 @@
 
 | **No** | **Experiment Name** | 
 | :---: | :---       |
-|1|Program to blink LED |
-|2|Program to Get input from two switches and switch on corresponding LEDs.|
-|3|Program to Flash an LED at a given on time and off time cycle, where the two times are taken from a file.|
-|4|Program to Switch on a relay at a given time using sleep function, where the relay’s contact terminals are connected to a load.|
-|5|Program for Buzzer |
-|6|Program for Thermistor|
-|7|Program for Light Dependent Resistor(LDR)|
-|8|Implement an intruder system that sends an alert to the given email|
-|9|Control Relay Module with MicroPython Web Server|
-|10| Program for Smoke Sensor |
-
+|1|Program to OnBoard blink LED |
+|2| Program to blink External LED |
+|3|Program to Control LED using Button |
+|4| Program for Boot Button LED |
+|5|Program to Get input from two switches and switch on corresponding LEDs.|
+|6|Program to Flash an LED at a given on time and off time cycle, where the two times are taken from a file.|
+|7|Program to read Buntton 35 |
+|8|Program to Switch on a relay at a given time using sleep function, where the relay’s contact terminals are connected to a load.|
+|9|Program for Buzzer |
+|10|Program for Thermistor|
+|11|Program for Light Dependent Resistor(LDR)|
+|12|Program for I2C LCD Scan |
+|13| Program for I2C LCD Display |
+|14|Implement an intruder system that sends an alert to the given email|
+|15|Control Relay Module with MicroPython Web Server|
+|16| Program for Smoke Sensor |
+|17|Program for Reaction Game - Single  |
+|18|Traffic Light  |
+|19| Traffic Puffin Crossing |
+|20| Program for Burglar Alaram using ESP32 |
+|21| Program for DHT11 |
 ---------------------
 
 |  **Program-1** | 
 | :---- |
-|Program to blink LED  |
+|Program to blink OnBoard LED  |
 |[Source Code](Programs/Blink.py)|
 
 --------------------
 
 | **Program-2** |
 | :---- |
+|Program to blink External LED |
+|[Source Code](Programs/)|
+
+------------------
+
+| **Program-3** |
+| :---- |
+|Program to Control LED using Button|
+|[Source Code](Programs/)|
+
+------------------
+ 
+| **Program-4** |
+| :---- |
+|Program for Boot Button LED |
+|[Source Code](Programs/)|
+
+------------------
+| **Program-5** |
+| :---- |
 |Program to Get input from two switches and switch on corresponding LEDs.|
 |[Source Code](Programs/PB-LED.py)|
 
 ------------------
 
-|  **Program-3** |
+|  **Program-6** |
 | :---- |
 |Program to Flash an LED at a given on time and off time cycle, where the two times are taken from a file. |
 |[Source Code](Programs/file.py)|
 
 -------------------
 
-|  **Program-4** |
+|  **Program-7** |
+| :---- |
+|Program to read Buntton 35|
+|[Source Code](Programs/)|
+
+-----------------------
+
+|  **Program-8** |
 | :---- |
 |Program to Switch on a relay at a given time using sleep function, where the relay’s contact terminals are connected to a load.|
 |[Source Code](Programs/Relay.py)|
 
 ---------------------
 
-|  **Program-5** |
+|  **Program-9** |
 | :---- |
 |Program for Buzzer |
 |[Source Code](Programs/buzzer.py)|
 
 -----------------------
 
-|  **Program-6** |
+|  **Program-10** |
 | :---- |
 |Program for Thermistor  |
 |[Source Code](Programs/Thermister.py)|
 
 ------------------------
 
-|  **Program-7** |
+|  **Program-11** |
 | :---- |
 |Program for Light Dependent Resistor(LDR) |
 |[Source Code](Programs/ldr.py)|
 
 ------------------------
 
-|  **Program-8** |
+|  **Program-12** |
+| :---- |
+|Program for I2C LCD Scan |
+|[Source Code](Programs/)|
+
+------------------------
+
+|  **Program-13** |
+| :---- |
+|Program for I2C LCD Display |
+|[Source Code](Programs/)|
+
+------------------------
+|  **Program-14** |
 | :---- |
 |Implement an intruder system that sends an alert to the given email|
 |[Source Code](Programs/pir.py)|
 
 -----------------------
 
-|  **Program-9** |
+|  **Program-15** |
 | :---- |
 |Control Relay Module with MicroPython Web Server|
 |[Boot Code](Programs/boot.py)|
@@ -153,12 +203,49 @@
 
 -------------------------
 
-|  **Program-10** |
+|  **Program-16** |
 | :---- |
 |Get an alarm from a remote area if smoke is detected.|
 |[Source Code](Programs/smoke.py)|
 
 -------------------------------
+
+|  **Program-17** |
+| :---- |
+|Program for Reaction Game - Single |
+|[Source Code](Programs/)|
+
+-------------------------------
+
+|  **Program-18** |
+| :---- |
+|Traffic Light  |
+|[Source Code](Programs/s)|
+
+-------------------------------
+
+|  **Program-19** |
+| :---- |
+|Traffic Puffin Crossing |
+|[Source Code](Programs/)|
+
+-------------------------------
+
+
+|  **Program-20** |
+| :---- |
+|Program for Burglar Alaram using ESP32|
+|[Source Code](Programs/)|
+
+-------------------------------
+
+|  **Program-21** |
+| :---- |
+|Program for DHT11|
+|[Source Code](Programs/)|
+
+-------------------------------
+
 
 <h3 align = "center">Don't forget to ⭐ this repo<h3>
   
