@@ -1,15 +1,9 @@
-from machine import Pin
-from time import sleep
-
-led = Pin(2,Pin.OUT)
-
+# Your first physical computing program: Hello, LED!(On Board LED)
+import machine
+import utime
+led_onboard = machine.Pin(2, machine.Pin.OUT)
 while True:
-  led.value(1)
-  sleep(1.0)
-  led.value(0)
-  sleep(1.0)
- 
-
-
-
-
+  led_onboard.value(1)
+  utime.sleep(1)
+  led_onboard.value(0)
+  utime.sleep(1)
