@@ -1,7 +1,7 @@
 from machine import Pin
 from time import sleep
 
-led = Pin(18,Pin.OUT)
+led = Pin(2,Pin.OUT)
 
 while True:
   led.value(1)
